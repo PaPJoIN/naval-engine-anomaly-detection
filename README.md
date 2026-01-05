@@ -23,4 +23,4 @@ The dataset can be found here: [dataset](https://ieee-dataport.org/open-access/p
 ## 🔻Results & Findings
 * Both optimised machine learning methods were able to indentify the expected range of anomalies (1-5%).
 * While the IQR method, when combined with a rule, produced results within the expected range, the multivariate machine learning methods (SVM and Isolation Forest) were more comprehensive in identifying anomalies by considering the relationships between features.
-* The identified anomalies can serve as a basis for further investigation by qualified engineers and service personnel to determine the root cause and necessary maintenance.
+* The identified anomalies can serve as a basis for further investigation by qualified engineers and service personnel to determine the root causes and necessary maintenance.
